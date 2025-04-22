@@ -9,7 +9,7 @@ This project explores agricultural holdings data using **Python**. It focuses on
 - Replaced missing value placeholders (`NA`, `NaN`, `-`) with `NaN` for consistency.
 - Removed any duplicate rows to ensure clean data.
 - Converted holding and area columns to numeric types safely using `pd.to_numeric`.
-- Dropped rows where crucial fields (`state`, `district`, total calculations) were missing.
+- Dropped rows where crucial fields (`state`, `district`, total calculations) were missing. 
 
 ---
 
