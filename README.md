@@ -4,7 +4,7 @@ This project explores agricultural holdings data using **Python**. It focuses on
 
 ---
 
-## 🥹 Data Cleaning Steps:
+##  Data Cleaning Steps:
 - Cleaned inconsistent column names for uniformity.
 - Replaced missing value placeholders (`NA`, `NaN`, `-`) with `NaN` for consistency.
 - Removed any duplicate rows to ensure clean data.
