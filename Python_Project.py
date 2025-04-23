@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import squarify
 
-# ----------------------------------
+# ---------------------------------- 
 #  Load the dataset
 # ----------------------------------
 print("Step 1: Loading the dataset...")
