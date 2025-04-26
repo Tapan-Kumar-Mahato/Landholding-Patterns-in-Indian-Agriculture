@@ -14,7 +14,7 @@ print(f"Dataset loaded with shape: {df.shape}")
 print("First 5 rows:\n", df.head(5))
 print("\n")
 
-# ----------------------------------
+# ---------------------------------- 
 # Cleaning column names
 # ----------------------------------
 print("Step 2: Cleaning column names...")
