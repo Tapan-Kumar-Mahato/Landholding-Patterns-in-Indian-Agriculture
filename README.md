@@ -1,7 +1,7 @@
-#📊 Landholding Patterns in Indian Agriculture
+📊 Landholding Patterns in Indian Agriculture
 This project explores landholding data in Indian agriculture using Python. It emphasizes robust data cleaning and generates insightful visualizations to better understand operational holdings across various dimensions like land size, social groups, tenancy types, and regional patterns.
 
-#🔍 Data Cleaning Process
+🔍 Data Cleaning Process
 The dataset was thoroughly preprocessed with the following steps:
 
 Standardized column names: Removed whitespace and special characters; converted to lowercase for consistency.
@@ -22,7 +22,7 @@ avg_area_per_holding (average area per holding)
 
 Final cleanup: Dropped any rows where summary columns were missing.
 
-#📈 Visualizations Included
+📈 Visualizations Included
 The project presents the following plots using matplotlib, seaborn, and squarify:
 
 Box Plot
@@ -43,7 +43,7 @@ What it shows: Top 10 Indian States by Average Operated Area.
 Treemap
 What it shows: Distribution of Holding Types (labels are human-readable and compact).
 
-#🧰 Libraries Used
+🧰 Libraries Used
 pandas – Data loading and preprocessing
 
 numpy – Numerical operations
@@ -52,6 +52,6 @@ matplotlib & seaborn – Visualization and plotting
 
 squarify – Treemap visualization
 
-#🚀 Project Outcome
+🚀 Project Outcome
 This project showcases how clear data processing and professional visualizations can turn raw agricultural statistics into actionable insights. The analysis reveals key trends in land ownership, operational fragmentation, and regional differences in holding patterns.
 
